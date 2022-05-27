@@ -1,0 +1,162 @@
+body {
+  max-width: 320px;
+  margin: auto;
+}
+
+.principal-page .lign-in-the-top {
+  background-color: #dda568;
+}
+
+.page-50 .lign-in-the-top {
+  margin-bottom: -60px;
+  background-color: #e37e6b;
+}
+.page-60 .lign-in-the-top {
+  margin-bottom: -60px;
+  background-color: #e8be55;
+}
+
+.page-70 .lign-in-the-top {
+  margin-bottom: -60px;
+  background-color: #647458;
+}
+
+h2 {
+font-family: futura-pt-bold, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 20px;
+text-align: center;
+}
+h3 {
+font-family: futura-pt, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 15px;
+text-align: center;
+color: #939393;
+}
+
+h4 {
+  font-family: tomarik-display, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:#ffb25f;
+  font-size : 50px;
+  margin-bottom:-15px;
+  text-align:Center;
+}
+.year {
+  display: flex;
+  overflow-x: scroll;
+}
+
+.vintage {
+  display: flex;
+  flex-direction: column;
+}
+
+.h1-50 {
+  font-family: tomarik-display, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:#e37e6b;
+  font-size : 70px;
+  margin-bottom:-15px;
+  text-align:Center;
+}
+
+.h1-60 {
+  font-family: tomarik-display, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:#e8be55;
+  font-size : 70px;
+  margin-bottom:-15px;
+  text-align:Center;
+}
+
+.h1-70 {
+  font-family: tomarik-display, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:#647458;
+  font-size : 70px;
+  margin-bottom:-15px;
+  text-align:Center;
+}
+
+
+.article-50 {
+  padding: 10px;
+  background-color: #ca5d57;
+}
+
+.article-60 {
+  padding: 10px;
+  background-color: #d3873d;
+}
+
+.article-70 {
+  padding: 10px;
+  background-color: #95acb5;
+}
+
+.page-packaging-50 {
+  margin-top: -10px;
+  padding: 10px;
+ color: #ca5d57;
+}
+
+.page-packaging-60 {
+  margin-top: -10px;
+  padding: 10px;
+ color: #d3873d;
+}
+
+.page-packaging-70 {
+  margin-top: -10px;
+  padding: 10px;
+ color: #95acb5;
+}
+
+
+.article-50 .achat-50,
+.article-60 .achat-60,
+.article-70 .achat-70  {
+text-align: center;
+}
+.picture-text {
+  border-radius: 25px;
+text-align: center;
+}
+
+p {
+  font-size: 12px;
+  text-align: center;
+}
+
+.amber img {
+position: relative;
+top: -5px;
+right: -118px;
+  height: 30px;
+}
+
+.prix {
+  font-family: futura-pt-bold, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 20px;
+text-align: center;
+
+}
+
+.png{
+  bottom: 10px;
+  position:fixed;
+}
+.picture-intro {
+  display: flex;
+  overflow-x: scroll;
+}
