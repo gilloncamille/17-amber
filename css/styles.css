@@ -2,7 +2,15 @@ body {
   max-width: 320px;
   margin: auto;
 }
-
+.body-50 {
+  background-image: url("../img/background-50.webp");
+}
+.body-60 {
+  background-image: url("../img/background-60.webp");
+}
+.body-70 {
+  background-image: url("../img/background-70.webp");
+}
 .principal-page .lign-in-the-top {
   background-color: #dda568;
 }
@@ -60,7 +68,7 @@ h4 {
   font-family: tomarik-display, sans-serif;
   font-weight: 400;
   font-style: normal;
-  color:#e37e6b;
+  color:black;
   font-size : 70px;
   margin-bottom:-15px;
   text-align:Center;
@@ -70,7 +78,7 @@ h4 {
   font-family: tomarik-display, sans-serif;
   font-weight: 400;
   font-style: normal;
-  color:#e8be55;
+  color:black;
   font-size : 70px;
   margin-bottom:-15px;
   text-align:Center;
@@ -80,7 +88,7 @@ h4 {
   font-family: tomarik-display, sans-serif;
   font-weight: 400;
   font-style: normal;
-  color:#647458;
+  color:black;
   font-size : 70px;
   margin-bottom:-15px;
   text-align:Center;
@@ -105,19 +113,19 @@ h4 {
 .page-packaging-50 {
   margin-top: -10px;
   padding: 10px;
- color: #ca5d57;
+ color: black;
 }
 
 .page-packaging-60 {
   margin-top: -10px;
   padding: 10px;
- color: #d3873d;
+ color: black;
 }
 
 .page-packaging-70 {
   margin-top: -10px;
   padding: 10px;
- color: #95acb5;
+ color: black;
 }
 
 
@@ -159,4 +167,8 @@ text-align: center;
 .picture-intro {
   display: flex;
   overflow-x: scroll;
+}
+
+.text-principal{
+  padding:20px 50px 20px 50px;
 }
